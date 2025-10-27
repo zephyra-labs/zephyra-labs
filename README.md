@@ -34,7 +34,6 @@ Integrated payment and escrow logic for international trade settlement using sta
 - **Node.js**, **TypeScript**, **Vue/Nuxt**
 - **Blockchain & Smart Contracts**
 - **Firebase / Firestore**
-- **Midtrans Integration**
 - **AI-powered KYC & Trade Risk Analytics**
 
 ---
