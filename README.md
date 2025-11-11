@@ -1,4 +1,4 @@
-# 🪽 Zephyra Labs
+# Zephyra Labs
 
 **Digital Export Protocol for Global Trade Settlement**
 
@@ -7,20 +7,20 @@ We design protocols and developer tools that empower global businesses to trade 
 
 ---
 
-## 🚀 What We Do
+## What We Do
 
-### 🔗 TradeChain Protocol
+### TradeChain Protocol
 A blockchain-based system for managing export and import contracts, digital invoices, and shipping documentation — ensuring verifiable, tamper-proof trade data.
 
-### 🧾 Digital KYC & Document Verification
+### Digital KYC & Document Verification
 Automated compliance through cryptographic proofs and AI-powered identity validation for exporters, importers, and intermediaries.
 
-### 💱 Global Settlement Layer
+### Global Settlement Layer
 Integrated payment and escrow logic for international trade settlement using stable digital currencies and programmable finance.
 
 ---
 
-## 🧠 Our Focus
+## Our Focus
 
 - Digitalization of trade documentation  
 - Interoperability between logistics, banking, and customs systems  
@@ -29,7 +29,7 @@ Integrated payment and escrow logic for international trade settlement using sta
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - **Node.js**, **TypeScript**, **Vue/Nuxt**
 - **Blockchain & Smart Contracts**
@@ -38,17 +38,17 @@ Integrated payment and escrow logic for international trade settlement using sta
 
 ---
 
-## 🌍 Vision
+## Vision
 
 > To redefine how global trade operates — by creating a trusted, efficient, and transparent digital export ecosystem.
 
 ---
 
-## 📫 Connect With Us
+## Connect With Us
 
-- 🌐 [zephyra-labs.com](https://zephyra-labs.com) *(coming soon)*  
-- ✉️ Contact: ptbahanamandirisejahtera@gmail.com
+- [zephyra-labs.com](https://zephyra-labs.com) *(coming soon)*  
+- Contact: ptbahanamandirisejahtera@gmail.com
 
 ---
 
-### ⚙️ “Building the Digital Backbone of Global Trade.”
+### “Building the Digital Backbone of Global Trade.”
